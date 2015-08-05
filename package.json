@@ -1,0 +1,14 @@
+{
+  "name": "Calc",
+  "version": "0.0.1",
+  "description": "Calc is a simple calculator application built in Electron.",
+  "main": "main.js",
+  "scripts": {
+  	"start": "electron ."
+  },
+  "author": "Shea Lewis",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.2"
+  }
+}
